@@ -1,0 +1,9 @@
+timtofey - Ven. 29/09/23 : Trouver navigateur
+
+timtofey - Ven. 29/09/23 : Ajouter le calendrier (Débrouille-toi : je m'en fiche si c'est moche)
+
+timtofey - Mer. 04/10/23 : coder opener.py
+
+GH160 - Mer. 04/10/23 : coder generator.-
+
+GH160 et timtofey - Dim. 08/10/23 : tout déployer
