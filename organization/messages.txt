@@ -1,0 +1,4 @@
+GH160 : Voici mon premier message dans ce fil de discussion. Il faut éditer le fichier pour écrire son message. 
+        Si je ne réponds pas par un autre lmoyen de communication, il y a plus de chance que je te lise dans ce fil
+GH160 : As tu réussi a éditer et à enregistrer depuis VS Code
+GH160 : Sinon, installe l'extension "GitHub Repositories". Après tu devrais pouvoir te débrouiller seul.
