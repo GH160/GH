@@ -1,0 +1,15 @@
+Lundi 25 septembre - Dimanche 8 octobre : tout coder sauf le recolter
+
+Lundi 9 octobre : Deployement
+
+Mardi 10 octobre - Mardi 18 octobre : code le recolter
+
+Mardi 10 octobre - Lundi 18 decembre : profit
+
+Samedi 16 octobre - Dimanche 17 octobre : verifie que le recolter marche
+
+Lundi 18 decembre - Lundi 25 decembre : recolte du profit grace au recolter
+
+Mardi 26 decembre : Fermeture COMPLETE du projet
+
+Dimanche 31 decembre : Fermeture du testnet
