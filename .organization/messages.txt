@@ -1,0 +1,3 @@
+GH160 : J'ai réinitialisé les messages pour la nouvelle opération MRH.
+GH160 : Je modifie la structure pour l'adapter à la nouvelle opération
+GH160 : Fais l'organisation XXXL
