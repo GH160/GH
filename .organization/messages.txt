@@ -1,4 +1,9 @@
 GH160 : J'ai réinitialisé les messages pour la nouvelle opération MRH.
 GH160 : Je modifie la structure pour l'adapter à la nouvelle opération
 GH160 : Fais l'organisation XXXL
+<<<<<<< HEAD
+=======
 Timofey : C'est quoi l'organisation XXXL
+>>>>>>> 4403c9e5b2bba55d64331547555e133331fd319d
+GH160 : utilise le messages.txt et aussi tu peux trouver comment fonctionnent les requêtes Bing car j'ai 
+        trop de travail avec accounts
