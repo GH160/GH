@@ -1,4 +1,5 @@
-Lundi 9 Octobre - Dimanche 22 Octobre : Tout coder
+Lundi 9 Octobre - Dimanche 15 Octobre : faire les requete + coder requester + coder shortcus
 
-Lundi 23 Octobre : Deploiement
+Lundi 16 Octobre - Mercredi 18 octobre : Faire accounts.html, accounts.css et accounts.js
+
 
