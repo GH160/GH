@@ -3,4 +3,4 @@ GH160 : Je modifie la structure pour l'adapter à la nouvelle opération
 GH160 : Fais l'organisation XXXL
 Timofey : C'est quoi l'organisation XXXL
 GH160 : utilise le messages.txt et aussi tu peux trouver comment fonctionnent les requêtes Bing car j'ai 
-        trop de travail avec accounts.js
+        trop de travail avec accounts.js et j'ai aussi crée une nouvelle branche pour moi avec les accounts.
