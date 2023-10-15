@@ -1,0 +1,5 @@
+// Model of txt accounts structure
+{
+    {1,"abscbfhg3457@hotmail.com","DjTjft38395Y"}
+    {2,"ghhkhvgs4092@hotmail.com","RYJDtgv4714Y"}
+}
